@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(p3at_tutorial)
+project(pioneer_3at_sim)
 
 find_package(catkin REQUIRED COMPONENTS
   amcl

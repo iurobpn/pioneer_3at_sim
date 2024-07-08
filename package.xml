@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <package>
-  <name>p3at_tutorial</name>
+  <name>pioneer_3at_sim</name>
   <version>0.0.0</version>
-  <description>Package demo for ROS navigation in Gazebo usingo Pioneer 3AT.</description>
+  <description>Package for ROS navigation in Gazebo usingo Pioneer 3AT.</description>
 
-  <maintainer email="gabriel.araujo.5000@gmail.com">Gabriel Araujo</maintainer>
+  <maintainer email="iuro@ufmg.br">Iuro Nascimento</maintainer>
   <license>BSD</license>
 
   <buildtool_depend>catkin</buildtool_depend>
